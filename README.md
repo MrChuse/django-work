@@ -5,7 +5,7 @@ git clone https://github.com/MrChuse/django-work.git
 
 cd django-work
 
-django-env\Scrips\activate
+django-env\Scripts\activate
 
 python django\mysite\manage.py runserver
 
