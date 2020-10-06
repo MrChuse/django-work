@@ -1,1 +1,1 @@
-ROOT_DIR = 'api'
+ROOT_DIR = 'django/mysite/api'
